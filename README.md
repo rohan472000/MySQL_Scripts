@@ -32,4 +32,5 @@ If you are on Linux, you can add the directory to your PATH by adding the follow
 This project is licensed under the terms of the MIT license. See LICENSE for more information,
 
 ## Contributing
-Contributions are welcome! If you would like to contribute to this project, KIndly fork and make PR with description.
+Contributions are welcome! If you would like to contribute to this project, Kindly fork and make PR with description.
+
