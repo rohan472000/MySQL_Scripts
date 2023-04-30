@@ -19,7 +19,8 @@ timestamp = now.strftime("%Y-%m-%d_%H-%M-%S")
 backup_file = f"{db_name}_{timestamp}.sql"
 
 # Create the backup command
-backup_command = f"mysqldump -h {db_host} -u {db_user} -p{db_password} {db_name} > {backup_dir}/{backup_file}"
+backup_command = f"mysqldump -h {db_host} -u {db_user} " \
+                 f"-p{db_password} {db_name} > {backup_dir}/{backup_file}"
 
 # Execute the backup command
 try:

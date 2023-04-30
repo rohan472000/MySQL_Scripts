@@ -5,8 +5,8 @@
 # 10 seconds to execute).
 
 # The script then runs a loop for one hour, checking the system stats and slow
-# queries every 10 seconds. If any slow queries are found, they are printed to the console.
-# After the loop is finished, the database connection is closed.
+# queries every 10 seconds. If any slow queries are found, they are printed to the
+# console.After the loop is finished, the database connection is closed.
 
 # You can modify this script to add more performance monitoring tasks,
 # such as monitoring disk usage, identifying frequently executed queries,
