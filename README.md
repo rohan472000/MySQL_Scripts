@@ -29,7 +29,7 @@ If you are on Linux, you can add the directory to your PATH by adding the follow
 - Run the scripts using python script_name.py
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the MIT license. See LICENSE for more information,
 
 ## Contributing
 Contributions are welcome! If you would like to contribute to this project, KIndly fork and make PR with description.
