@@ -1,3 +1,4 @@
+# before running this scripts :- 
 # mysql> select * from rohn2;
 # +-------+------+
 # | name  | roll |
@@ -39,6 +40,7 @@ for row in result:
 db.commit()
 print("Data encrypted and updated successfully")
 
+# after running above scripts :-
 # mysql> select * from rohn2;
 # +-------+------------------------------------------------------------------------------------------------------+
 # | name  | roll                                                                                                 |
