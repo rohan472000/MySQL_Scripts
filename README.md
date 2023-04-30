@@ -10,7 +10,7 @@ Make sure that you have MySQL installed on your system and that the 'mysqldump' 
 
 You can test this by opening a command prompt or terminal and typing 'mysqldump'. If it returns an error message, then you need to add the directory containing 'mysqldump' to your PATH environment variable.
 
-If you are on Windows, you can add the directory to your PATH by following these steps:
+If you are on Windows, you can add the directory to your `PATH` by following these steps:
 
 Open the Start menu and search for 'Environment Variables'
 - Click on 'Edit the system environment variables'
