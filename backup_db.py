@@ -9,7 +9,7 @@ db_password = "rohan"
 db_name = "sakila"
 
 # Set the backup directory
-backup_dir = "C:/pycharm/codes/pythonProject22222/test"
+backup_dir = "backup-directory"
 
 # Get the current date and time
 now = datetime.datetime.now()
