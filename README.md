@@ -24,9 +24,9 @@ If you are on Linux, you can add the directory to your PATH by adding the follow
 
 ## Installation
 - Clone this repository to your local machine
-- Install required Python libraries with pip install -r requirements.txt
+- Install required Python libraries with `pip install -r requirements.txt`
 - Configure the database connection settings in each script
-- Run the scripts using python script_name.py
+- Run the scripts using `python script_name.py`
 
 ## License
 This project is licensed under the terms of the MIT license. See LICENSE for more information,
